@@ -1,0 +1,42 @@
+body {
+	font-size: 16px;
+	font-family: 'Helvetica', sans-serif;
+	background-color: #e6dcff;
+}
+
+nav.navbar {
+	background-color: #8fbc8f!important;
+}
+
+.navbar {
+	font-size: 1.2em;
+}
+
+.nav-link {
+	color: #000;
+}
+
+div#main-content.container {
+	background-color: #e6dcff;
+	color: #000;
+}
+
+div#menu {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 2em;
+}
+
+div#menu-items {
+	font-weight: 5;
+	font-size: 1.5em;
+}
+
+button {
+	background-color: #fff0a1!important;
+}
+
+li.nav-item {
+	border: 1px solid black;
+	margin: 3px;
+}
